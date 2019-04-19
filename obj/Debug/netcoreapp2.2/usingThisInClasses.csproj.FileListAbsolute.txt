@@ -1,0 +1,11 @@
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/bin/Debug/netcoreapp2.2/usingThisInClasses.deps.json
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/bin/Debug/netcoreapp2.2/usingThisInClasses.runtimeconfig.json
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/bin/Debug/netcoreapp2.2/usingThisInClasses.runtimeconfig.dev.json
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/bin/Debug/netcoreapp2.2/usingThisInClasses.dll
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/bin/Debug/netcoreapp2.2/usingThisInClasses.pdb
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/obj/Debug/netcoreapp2.2/usingThisInClasses.csprojAssemblyReference.cache
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/obj/Debug/netcoreapp2.2/usingThisInClasses.csproj.CoreCompileInputs.cache
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/obj/Debug/netcoreapp2.2/usingThisInClasses.AssemblyInfoInputs.cache
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/obj/Debug/netcoreapp2.2/usingThisInClasses.AssemblyInfo.cs
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/obj/Debug/netcoreapp2.2/usingThisInClasses.dll
+/Users/abbeybrown/workspace/csharp/exercises/usingThisInClasses/obj/Debug/netcoreapp2.2/usingThisInClasses.pdb
